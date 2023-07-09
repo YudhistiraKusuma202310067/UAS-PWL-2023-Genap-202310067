@@ -12,8 +12,11 @@
 ## My Tech Stacks
 
 ### Front End
+| [React JS](https://legacy.reactjs.org/) | [Bootstrap](https://getbootstrap.com/) | [Axios](https://axios-http.com/docs/intro) | [Github](https://github.com/) |
+|-------------|-------------|-------------|-------------|
+| <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100"> | <img src="https://velog.velcdn.com/images/moonshadow/post/bc1ac3ba-9c3f-4695-8994-147ff8f85eaa/image.jpeg" width="100"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100"> |
 
 ### Back End
-| [JAVA](https://www.java.com/en/)      | [MySQL](https://www.mysql.com/)      | [Postman](https://www.postman.com/)      | [SpringBoot](https://spring.io/projects/spring-boot)      | [Github](https://github.com/)    | [JWT](https://jwt.io/)      |
-|-------------|-------------|-------------|-------------|-------------|-------------|
-| <img src="https://www.bing.com/th?id=OIP.ANfN008bhlikSHWZAaVXSAHaHa&w=110&h=110" width="100"> | <img src="https://www.bing.com/th?id=AMMS_5c8bbd728b92b1a4b68f74bc8acdd216&w=110&h=110" width="100"> | <img src="https://miro.medium.com/max/640/1*4b2A9LnOXidRaqXXU8CZMA.webp" width="100"> | <img src="[https://spring.io/images/spring-logo-2022-dark-2f10e8055653ec50e693eb444291d742.svg](https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI…7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png)" width="100"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100">| <img src="https://jwt.io/img/pic_logo.svg" width="100"> |
+| [JAVA](https://www.java.com/en/)      | [SpringBoot](https://spring.io/projects/spring-boot)      | [MySQL](https://www.mysql.com/)      | [Postman](https://www.postman.com/)      | [Github](https://github.com/)    |
+|-------------|-------------|-------------|-------------|-------------|
+| <img src="https://www.bing.com/th?id=OIP.ANfN008bhlikSHWZAaVXSAHaHa&w=110&h=110" width="100"> | <img src="https://www.appsdeveloperblog.com/wp-content/uploads/2022/08/spring_boot.png" width="100"> | <img src="https://www.bing.com/th?id=AMMS_5c8bbd728b92b1a4b68f74bc8acdd216&w=110&h=110" width="100"> | <img src="https://miro.medium.com/max/640/1*4b2A9LnOXidRaqXXU8CZMA.webp" width="100"> | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100">|
