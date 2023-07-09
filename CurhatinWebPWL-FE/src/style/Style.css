@@ -1,0 +1,65 @@
+*,body, html {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "Poppins";
+    /* background-color: var(--var--bgcolor); */
+}
+
+label{
+    font-size: 16px;
+}
+
+:root {
+    --var--primary: "#1D82E3";
+    --var--bgcolor: "#F8F8F8";
+    --var--seccolor: "#FFFFFF";
+}
+
+.login, .register{
+    justify-content: center;
+    margin-top: 18vh;
+}
+
+.loginForm, .registerForm{
+    border-radius: 15px;
+    box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.25);
+}
+
+/* .card-1 {
+    background-color: var(--var--seccolor);
+} */
+
+.card-1 h1{
+    text-align: center;
+}
+
+.lupa {
+    text-decoration: none;
+    color: "#1D82E3";
+}
+
+.bg-login-kanan{
+    background-image: url("../asset/Rectangle\ 3.png");
+    background-size: cover;
+}
+
+.bg-register-kiri{
+    background-image: url("../asset/Rectangle\ 3.1.png");
+    background-size: cover;
+}
+
+.flex-center{
+    justify-content: center;
+    align-items: center;
+}
+
+/* .nav-tabs .nav-item .nav-link.active {
+    color: #0080FF;
+  }
+  
+.active-header:active{
+    color: #0080FF;
+} */
